@@ -28,7 +28,7 @@ The dataset used for training the Semblance Halo model is a synthetic text corpu
 
 ### Composition
 
-The dataset includes approximately 8,995 words and 73,663 characters of clean text, free from special characters except for basic punctuation and numerical values. This text serves as the training data for our LSTM model.
+The dataset includes approximately 182,730 words 1,505,326 characters of clean text, free from special characters except for basic punctuation and numerical values. This text serves as the training data for our LSTM model.
 
 A separate validation set, approximately three times the size of the training set with 18,612 words and 150,886 characters, is used to evaluate the model's performance. The validation set is generated using the same method as the training data to ensure consistency.
 
