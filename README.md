@@ -58,8 +58,4 @@ This project was inspired by the work on LSTM networks by Hochreiter & Schmidhub
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-Remember to replace `https://github.com/yourusername/semblance-halo.git` with the actual URL of your GitHub repo and adjust any instructions according to your project's setup. 
-
-For the code snippets within the README, you can use GitHub Flavored Markdown to format the code with syntax highlighting.
+Distributed under the GNU Alferno License. See `LICENSE` for more information.
