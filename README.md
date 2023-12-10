@@ -42,9 +42,11 @@ Both the training and validation datasets underwent preprocessing steps which in
 
 ### Availability
 
-The dataset is curated specifically for this project and is not publicly available. It was generated in a controlled environment to facilitate the development and testing of the LSTM model in a manner that respects privacy and ethical considerations.
+Some part of the dataset is curated specifically for this project and is not publicly available. It was generated in a controlled environment to facilitate the development and testing of the LSTM model in a manner that respects privacy and ethical considerations.
 
 For more information on the generation and preprocessing of the dataset, please refer to the code documentation within the project repository.
+
+I am currently working excitedly on expiramenting and I hope to find solid grounds and personal breakthrough on how to interact with the model. Results show its working well but that is to be pushed futher with interaction.
 
 ## Contributing
 
@@ -59,6 +61,13 @@ Contributions to improve the project are welcome. Please follow these steps:
 ## Credits
 
 This project was inspired by the work on LSTM networks by Hochreiter & Schmidhuber (1997).
+Microsoft - Borrowed their proven concept of using LLMs to generate synthetic data.
+
+## Fun comments from the Author
+This is my first step and i have officially joind the ML train! haha
+I did this for fun and to enjoy th learning process, what i thought would take a month, took just 24 hours
+Yes, if you're an expert dont belittle me, I only have less than a year experience in tech and i was able to build this. Yipee
+I kinda learn better by doing.
 
 ## License
 
