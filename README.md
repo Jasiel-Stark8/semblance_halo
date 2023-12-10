@@ -3,6 +3,7 @@
 ## Description
 
 This project is a lightweight language model based on an LSTM architecture, built for educational purposes. It serves as an exploration into the fundamentals of recurrent neural networks and their application in processing sequential data.
+The RNN model with the given architecture has a total of 4,245,264 trainable parameters.
 
 ## Installation
 
