@@ -79,7 +79,7 @@ loss_function = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 # Training Loop
-num_epochs = 5
+num_epochs = 10
 for epoch in range(num_epochs):
     model.train()
     for input_sequence, target_sequence in data_loader:
