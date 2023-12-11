@@ -10,7 +10,7 @@ The RNN model with the given architecture has a total of 4,245,264 trainable par
 To get started with this project:
 
 ```bash
-git clone https://github.com/yourusername/semblance_halo.git
+git clone https://github.com/Jasiel-Stark8/semblance_halo.git
 cd semblance-halo
 pip install -r requirements.txt
 ```
