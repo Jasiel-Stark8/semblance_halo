@@ -70,6 +70,8 @@ I did this for fun and to enjoy th learning process, what i thought would take a
 Yes, if you're an expert dont belittle me, I only have less than a year experience in tech and i was able to build this. Yipee
 I kinda learn better by doing.
 
+Any opportunity to be part of a greater team will be a boost to enforce my learning prowess
+
 ## License
 
 Distributed under the AGPL-3.0 License. See `LICENSE` for more information.
