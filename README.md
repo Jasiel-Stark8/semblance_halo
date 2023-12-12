@@ -72,6 +72,14 @@ I kinda learn better by doing.
 
 Any opportunity to be part of a greater team will be a boost to enforce my learning prowess
 
+## Progress Report:
+Currenlty increased the dataset to 8gb worth of CSV data on covid, across many scenarios and demographics \
+Trying to add them so the model can learnin through that pipeline. \
+Current issue being faced is how to run my model on the cuda GPU on kaggle \
+The current updated file is on kaggle and I will update this repo tonight, any contributions are welcome \
+Let's learn together! :)
+
+
 ## License
 
 Distributed under the AGPL-3.0 License. See `LICENSE` for more information.
