@@ -2,7 +2,8 @@
 
 ## Description
 
-This project is a lightweight language model based on an LSTM architecture, built for educational purposes. It serves as an exploration into the fundamentals of recurrent neural networks and their application in processing sequential data.
+This project is a lightweight language model based on an LSTM architecture, built for educational purposes. \
+It serves as an exploration into the fundamentals of recurrent neural networks and their application in processing sequential data. \
 The RNN model with the given architecture has a total of 4,245,264 trainable parameters. This includes parameters from the embedding layer, the LSTM layer, and the linear decoder layer.
 
 ## Installation
@@ -73,7 +74,7 @@ I kinda learn better by doing.
 Any opportunity to be part of a greater team will be a boost to enforce my learning prowess
 
 ## Progress Report:
-Currenlty increased the dataset to 8gb worth of CSV data on covid, across many scenarios and demographics \
+Currenlty increased the dataset to 8gb worth of CSV data on covid, across many scenarios and demographics. Data quantity should be in excess of 10~50 Million entries \
 Trying to add them so the model can learnin through that pipeline. \
 Current issue being faced is how to run my model on the cuda GPU on kaggle \
 The current updated file is on kaggle and I will update this repo tonight, any contributions are welcome \
